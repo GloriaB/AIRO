@@ -1,0 +1,11 @@
+---
+layout: page
+title: Research Groups
+date: 2021-02-28 17:44
+author: anzalones
+comments: true
+categories: []
+---
+<!-- wp:list -->
+<ul><li><strong>Laboratorio di Robotica Avanzata</strong>&nbsp;  <br>Università di Brescia, Italy  <br><a href="http://www.ing.unibs.it/arl">http://www.ing.unibs.it/arl</a>  </li><li><strong>Laboratorium</strong><br>Department of Communication, Computer and System Sciences,<br>Università di Genova, Italy  <br><a href="http://www.robotics.laboratorium.dist.unige.it">www.robotics.laboratorium.dist.unige.it</a> </li><li><strong>VRAI – Vision, Robotics and Artificial Intelligence </strong>&nbsp;<br>Università Politecnica delle Marche, Italy  <br><a href="http://leibniz2.diiga.univpm.it/~zingaretti/VRAI ">http://leibniz2.diiga.univpm.it/~zingaretti/VRAI </a></li><li><strong>AIRLab – Artificial Intelligence and Robotics Lab</strong><br>Politecnico di Milano, Italy  <br><a href="http://airwiki.ws.dei.polimi.it">http://airwiki.ws.dei.polimi.it</a></li><li><strong>IRAlab</strong><br>Dept. Informatica, Sist. e Comunicaz., Univ. Milano – Bicocca, Italy  <br><a href="http://airwiki.ws.dei.polimi.it">www.ira.disco.unimib.it</a></li><li><strong>PRISMA &nbsp;Lab</strong><br>Università degli Studi di Napoli Federico II, Italy  <br><a href="http://prisma.dieti.unina.it">http://prisma.dieti.unina.it</a></li><li><strong>IAS-Lab (Intelligent Autonomous Systems Laboratory)</strong>  <br>Università di Padova, Italy <br><a href="http://robotics.dei.unipd.it">http://robotics.dei.unipd.it</a> </li><li><strong>RoboticsLab</strong><br>Università degli Studi di Palermo, Italy  <br><a href="http://roboticslab.dinfo.unipa.it/">http://roboticslab.dinfo.unipa.it</a> </li><li><strong>RIMLAB – Robotics and Intelligent Machines Laboratory</strong>  <br>Università degli Studi di Parma, Italy <br><a href="http://roboticslab.dinfo.unipa.it">http://rimlab.ce.unipr.it</a></li><li><strong>Cognitive Robot Teams Laboratory (Robot Cognitivi e Cooperanti) –</strong>&nbsp;<br>Sapienza Università di Roma, Italy  <br><a href="http://labrococo.dis.uniroma1.it">http://labrococo.dis.uniroma1.it</a></li><li> <strong>Laboratoire&nbsp;Cognitions Humaine et Artificielle</strong> -    <br>Université Paris 8, France  <br><a href="http://www.cognition-usages.org/chart2">http://www.cognition-usages.org/chart2</a></li></ul>
+<!-- /wp:list -->
